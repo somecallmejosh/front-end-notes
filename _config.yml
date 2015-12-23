@@ -19,3 +19,4 @@ github_username:  somecallmejosh
 
 # Build settings
 markdown: kramdown
+permalink: /:categories/:title
