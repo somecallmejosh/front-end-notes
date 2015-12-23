@@ -2,7 +2,7 @@
 layout: post
 title:  "Eloquent Javascript Dynamic Chessboard"
 date:   2015-12-22 09:59:53 -0500
-categories: javascript exercises
+categories: exercises
 ---
 
 This is the Chessboard Grid exercise from Eloquent Javascript, Chapter 2.
