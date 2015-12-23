@@ -7,6 +7,6 @@ categories: javascript
 exercise: true
 ---
 
-This is from Eloquent Javascript, Chapter 2 exercises
+This is the Chessboard Grid exercise from Eloquent Javascript, Chapter 2.
 
 <a class="jsbin-embed" href="http://jsbin.com/domafaqete/embed?js,console">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.5"></script>
