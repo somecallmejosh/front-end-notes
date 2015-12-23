@@ -2,9 +2,7 @@
 layout: post
 title:  "Eloquent Javascript Fizz Buzz"
 date:   2015-12-23 09:59:53 -0500
-category: javascript
-categories: javascript
-exercise: true
+categories: javascript exercises
 ---
 
 This is the Fizz Buzz challenge from Eloquent Javascript, Chapter 2.

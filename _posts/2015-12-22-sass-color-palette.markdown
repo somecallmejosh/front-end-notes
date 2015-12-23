@@ -2,7 +2,6 @@
 layout: post
 title:  "Sass Color Palette"
 date:   2015-12-22 09:59:53 -0500
-category: css
 categories: css
 ---
 

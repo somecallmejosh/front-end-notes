@@ -2,7 +2,6 @@
 layout: post
 title:  "Undefined Values"
 date:   2015-12-22 09:59:53 -0500
-category: javascript
 categories: javascript
 ---
 

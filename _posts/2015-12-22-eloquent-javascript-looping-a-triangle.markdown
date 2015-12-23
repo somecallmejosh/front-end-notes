@@ -2,8 +2,7 @@
 layout: post
 title:  "Eloquent Javascript Looping a Triangle"
 date:   2015-12-22 09:59:53 -0500
-category: javascript
-categories: ["javascript", "exercise"]
+categories: javascript exercises
 ---
 
 This is Triangle Exercise from Eloquent Javascript, Chapter.
