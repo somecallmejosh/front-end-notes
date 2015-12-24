@@ -8,7 +8,7 @@ categories: exercises
 This is Triangle Exercise from Eloquent Javascript, Chapter.
 
 #Option A
-<a class="jsbin-embed" href="http://jsbin.com/hivevirufe/embed?js,console">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.5"></script>
+<a class="jsbin-embed" href="http://jsbin.com/fuxepohoga/embed?js,console">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.5"></script>
 
 #Option B
-<a class="jsbin-embed" href="http://jsbin.com/heguhedepu/embed?js,console">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.5"></script>
+<a class="jsbin-embed" href="http://jsbin.com/siqemuvilo/embed?js,console">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.5"></script>

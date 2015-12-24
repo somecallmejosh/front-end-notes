@@ -7,4 +7,4 @@ categories: exercises
 
 This is the Fizz Buzz challenge from Eloquent Javascript, Chapter 2.
 
-<a class="jsbin-embed" href="http://jsbin.com/nasujupono/embed?js,console">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.5"></script>
+<a class="jsbin-embed" href="http://jsbin.com/belokiname/embed?js,console">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.5"></script>
