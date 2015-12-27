@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eloquent Javascript Dynamic Chessboard"
+title:  "Eloquent Javascript: Dynamic Chessboard"
 date:   2015-12-22 09:59:53 -0500
 categories: exercises
 ---

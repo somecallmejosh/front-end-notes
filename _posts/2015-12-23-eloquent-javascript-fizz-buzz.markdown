@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eloquent Javascript Fizz Buzz"
+title:  "Eloquent Javascript: Fizz Buzz"
 date:   2015-12-23 09:59:53 -0500
 categories: exercises
 ---

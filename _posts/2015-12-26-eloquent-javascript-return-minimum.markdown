@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eloquent Javascript Return Min Number"
+title:  "Eloquent Javascript: Return Min Number"
 date:   2015-12-26 09:59:53 -0500
 categories: exercises
 ---

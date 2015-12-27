@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eloquent Javascript Looping a Triangle"
+title:  "Eloquent Javascript: Looping a Triangle"
 date:   2015-12-22 09:59:53 -0500
 categories: exercises
 ---
