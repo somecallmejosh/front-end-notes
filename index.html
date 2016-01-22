@@ -2,7 +2,8 @@
 layout: default
 ---
 <div class="home">
-  {% for category in site.categories %}
+  {% assign sorted_categories = (site.categories | sort: 'title')}
+  {% for category in sorted_categories %}
     <h1>{{ category | first }}</h1>
       <ul>
       {% for posts in category %}
