@@ -2,16 +2,14 @@
 layout: default
 ---
 <div class="home">
-  {% for category in site.categories %}
-    <h1>{{ category | first }} Yo</h1>
-      <ul>
-      {% for posts in category %}
-        {% for post in posts %}
-          {% if post.url %}
-          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-      {% endfor %}
+  {% assign sorted_cats = site.categories | sort %}
+  {% for category in sorted_cats %}
+  {% assign sorted_posts = category[1] | sort: 'title' %}
+    <h1>{{ category[0] }}</h1>
+       <ul>
+          {% for p in sorted_posts %}
+            <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+          {% endfor %}
       </ul>
   {% endfor %}
 </div>
