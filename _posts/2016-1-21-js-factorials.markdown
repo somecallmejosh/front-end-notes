@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Factorials"
+title:  "MATH: Factorials"
 date:   2016-1-21 09:59:53 -0500
 categories: javascript
 ---

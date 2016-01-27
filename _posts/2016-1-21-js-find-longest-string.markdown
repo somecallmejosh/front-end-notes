@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Find the Longest Word in a String"
+title:  "STRING: Find the Longest Word in a String"
 date:   2016-1-21 09:59:53 -0500
 categories: javascript
 ---

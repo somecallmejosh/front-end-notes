@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "String Repeat X Times"
+title:  "STRING: Repeat a String X Times"
 date:   2016-1-22 09:59:53 -0500
 categories: javascript
 ---

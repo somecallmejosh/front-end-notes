@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Return Max Numbers in Arrays"
+title:  "ARRAY: Return Max Numbers in Arrays"
 date:   2016-1-22 09:59:53 -0500
 categories: javascript
 ---

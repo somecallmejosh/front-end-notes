@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ternary Operators"
+title:  "CONDITIONALS: Ternary Operators"
 date:   2015-12-22 09:59:53 -0500
 categories: javascript
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "String Ending Match"
+title:  "STRING: String Ending Match"
 date:   2016-1-22 09:59:53 -0500
 categories: javascript
 ---

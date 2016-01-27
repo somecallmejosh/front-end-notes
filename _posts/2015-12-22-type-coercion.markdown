@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Type Coercion"
+title:  "PRIMITIVES: Type Coercion"
 date:   2015-12-22 09:59:53 -0500
 categories: javascript
 ---

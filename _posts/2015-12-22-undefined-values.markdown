@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Undefined Values"
+title:  "PRIMITIVES: Undefined Values"
 date:   2015-12-22 09:59:53 -0500
 categories: javascript
 ---

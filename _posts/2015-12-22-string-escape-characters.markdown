@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "String Escape Characters"
+title:  "STRING: String Escape Characters"
 date:   2015-12-22 09:59:53 -0500
 categories: javascript
 ---

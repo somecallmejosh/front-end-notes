@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prohibit Injectable Scripts"
+title:  "STRING: Prohibit Injectable Scripts"
 date:   2015-12-22 09:59:53 -0500
 categories: javascript
 ---
